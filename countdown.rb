@@ -6,4 +6,5 @@ def countdown(n)
   puts "#{n} SECOND(S)!"
   x -= 1 
 end
+puts ""
 end
